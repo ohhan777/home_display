@@ -1,0 +1,14 @@
+# Python dependencies for home_display project
+
+# Environment variable management
+python-dotenv
+
+# Astronomy calculations (sun/moon rise/set times)
+pyephem
+
+# SmartThings API
+pysmartthings==0.7.7
+aiohttp==3.8.6
+
+# GUI
+# tkinter is included with Python on Raspberry Pi
